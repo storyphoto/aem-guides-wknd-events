@@ -39,6 +39,12 @@
         <vault.user>admin</vault.user>
         <vault.password>admin</vault.password>
 
+        <!-- Update: Used by frontend-maven-plugin -->
+    <frontend-maven-plugin.version>1.6</frontend-maven-plugin.version>
+    <node.version>v10.13.0</node.version>
+    <npm.version>6.4.1</npm.version>
+    <!-- end update -->
+
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
