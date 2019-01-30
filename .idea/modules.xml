@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd-events.iml" filepath="$PROJECT_DIR$/aem-guides-wknd-events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/aem-guides-wknd-events.core.iml" filepath="$PROJECT_DIR$/core/aem-guides-wknd-events.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/aem-guides-wknd-events.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/aem-guides-wknd-events.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/aem-guides-wknd-events.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/aem-guides-wknd-events.ui.content.iml" />
+    </modules>
+  </component>
+</project>

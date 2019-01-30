@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aem-guides-wknd-events.core" />
+        <module name="aem-guides-wknd-events.ui.apps" />
+        <module name="aem-guides-wknd-events.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aem-guides-wknd-events" target="1.8" />
+      <module name="aem-guides-wknd-events.core" target="1.8" />
+      <module name="aem-guides-wknd-events.ui.apps" target="1.8" />
+      <module name="aem-guides-wknd-events.ui.content" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
